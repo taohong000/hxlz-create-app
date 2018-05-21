@@ -1,0 +1,8 @@
+{
+    "templateRepo":
+    {
+        "dashboard": "taohong000/admin-template",
+        "webApp": "taohong000/webpack",
+        "simplePage": "taohong000/webpack-simple"
+    }
+}

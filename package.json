@@ -1,0 +1,24 @@
+{
+  "name": "hxlz-create-app",
+  "version": "1.0.0",
+  "repository": "git://github.com/taohong000/hxlz-create-app",
+  "description": "慧鑫联众公司的前端项目脚手架工具",
+  "scripts": {
+    "hxlz-create-app": "node ./bin/hxlz-init.js"
+  },
+  "bin": {
+    "hxlz": "./bin/hxlz.js",
+    "hxlz-init": "./bin/hxlz-init.js"
+  },
+  "author": "taohong000 <th19891014@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "glob": "^7.1.2",
+    "handlebars": "^4.0.11",
+    "inquirer": "^5.2.0",
+    "metalsmith": "^2.3.0"
+  }
+}
