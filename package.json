@@ -1,6 +1,6 @@
 {
   "name": "hxlz-create-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "git://github.com/taohong000/hxlz-create-app",
   "description": "慧鑫联众公司的前端项目脚手架工具",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "author": "taohong000 <th19891014@qq.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
     "download-git-repo": "^1.0.2",
